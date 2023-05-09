@@ -18,7 +18,7 @@ const List = ({places, childClicked, isLoading, type, setType, rating, setRating
     return(
         <div className={classes.container}>
             <Typography variant="h4">
-                Restaurants, Hotels & Attractions around you
+                Attractions around you!
             </Typography>
 
             {
